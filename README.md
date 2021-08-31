@@ -2,7 +2,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhyz&langs_count=8a&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhyz&langs_count=8a&theme=dark&show_icons=true)
 
 
 
