@@ -5,9 +5,6 @@
 
 ### A Student Development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MinhYz&label=Profile views&color=0e75b6&style=flat" alt="MinhYz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MinhYz" alt="MinhYz" /></a> </p>
 
 - 🌱 I'm currently learning **C# and Java**
 
@@ -28,11 +25,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhYz&show_icons=true&locale=en&layout=compact" alt="MinhYz" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=MinhYz&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=MinhYz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)" alt="MinhYz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinhYz&show_icons=true&locale=en" alt="MinhYz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhYz&" alt="MinhYz" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=MinhYz&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api/top-langs?username=MinhYz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)" alt="MinhYz" /></p>
 
 
 
